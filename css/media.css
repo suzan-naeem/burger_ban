@@ -1,0 +1,447 @@
+/* Smart Phones And Tablets */
+
+@media (max-width:767px) {
+    .header .header-info .navbar {
+        padding: 20px 15px
+    }
+    .header .header-info .navbar .navbar-nav {
+        text-align: center;
+        padding: 10px 0;
+        background-color: var(--main-color);
+        margin-top: 15px;
+        border-radius: 5px
+    }
+    .header .header-info .navbar .navbar-nav .nav-link,
+    .header .header-info .navbar .navbar-nav .nav-link:focus,
+    .header .header-info .navbar .navbar-nav .nav-item .active {
+        margin: 5px 0;
+        color: #fff
+    }
+    .header .header-info .dropdown-menu {
+        text-align: center;
+        margin: 10px 30px 0
+    }
+    .header .header-info .dropdown-menu:before {
+        top: 23px;
+        left: 48%
+    }
+    .home-page .info h1 {
+        margin: 25px 0;
+        font-size: 50px
+    }
+    .home-page .info p {
+        max-width: 100%;
+        font-size: 14px
+    }
+    .home-page .info .button button, .grid5 .info-grid5 .button button {
+        padding: 10px 20px
+    }
+    .single .info-single .img h2 {
+        font-size: 24px
+    }
+    .single .info-single .img .blocked-div h2,
+    .single .info-single .text-div h3 {
+        font-size: 16px
+    }
+    .single .info-single .box-chef .images,
+    .single .info-single .box-chef .info {
+        float: none
+    }
+    .single .info-single .comments .information .img,
+    .single .info-single .comments .information .info {
+        float: none
+    }
+    .grid2 .info-grid2 .text-grid2 h1 {
+        font-size: 20px
+    }
+    .grid2 .info-grid2 .text-grid2 p {
+        font-size: 18px
+    }
+    .grid4 .info-grid4 img {
+        margin: auto
+    }
+    .grid5 .info-grid5 h3, .grid5 .info-grid5 p,
+    .grid8 .info-grid8 .text-grid8 h1 {
+        font-size: 20px
+    }
+    .grid6 .info-grid6 h1, .grid7 .text-grid7 h1 {
+        font-size: 30px
+    }
+    .grid8 .info-grid8 .imag img {
+        width: 145px
+    }
+    .grid8 .info-grid8 .form h4 {
+        font-size: 18px
+    }
+    .grid8 .info-grid8 button {
+        width: 100%
+    }
+    .grid9 .section h3 {
+        font-size: 17px
+    }
+    .about .info-about .text-about h1 {
+        font-size: 25px
+    }
+    .image-gallery .info h1 {
+        font-size: 30px
+    }
+    .text-contact .info h1 {
+        font-size: 24px
+    }
+    .menu .info-text .tabs li {
+        margin: 0 2px
+    }
+    .menu .list-menu .text-menu li h2 {
+        font-size: 18px
+    }
+    .posts .num-page li {
+        width: 40px;
+        height: 40px;
+        line-height: 40px;
+        margin: 0 0px;
+    }
+    .header-single .home-page-single .info-single h1 {
+        font-size: 45px
+    }
+    .single .info-single .section-info p {
+        font-size: 20px
+    }
+    .single .info-single .section-info p span {
+        margin: 0 1px;
+        font-size: 13px
+    }
+    .single .info-single .section-info p a i {
+        margin: 0 1px
+    }
+    .single .info-single .box-chef,
+    .single .info-single .comments .information {
+        text-align: center
+    }
+    .single .info-single .box-chef .images img {
+        display: block;
+        margin: auto
+    }
+    .single .info-single .box-chef .info button {
+        display: inline
+    }
+    .single .info-single .comments .information .info p,
+    .single .info-single .box-chef .info p {
+        font-size: 11px
+    }
+    .contact-form .info-form .info h2 {
+        font-size: 34px
+    }
+    .contact-form .info-form .info p {
+        font-size: 18px
+    }
+    .contact-form .info-form .info-detials {
+        padding: 50px 0 0;
+        margin-left: 0
+    }
+    .footer p {
+        font-size: 16px
+    }
+    .header .search .info-search {
+        width: 330px
+    }
+    .header .search .info-search input {
+        width: 524px
+    }
+    .header .search .info-search button {
+        width: 100%
+    }
+}
+
+@media (max-width:768px) {
+    .header .header-info .navbar {
+        padding: 20px 15px
+    }
+    .header .header-info .navbar .navbar-nav {
+        text-align: center;
+        padding: 10px 0;
+        background-color: var(--main-color);
+        margin-top: 15px;
+        border-radius: 5px
+    }
+    .header .header-info .navbar .navbar-nav .nav-link,
+    .header .header-info .navbar .navbar-nav .nav-link:focus,
+    .header .header-info .navbar .navbar-nav .nav-item .active {
+        margin: 5px 0;
+        color: #fff
+    }
+    .header .header-info .dropdown-menu {
+        text-align: center;
+        margin: 10px 30px 0
+    }
+    .header .header-info .dropdown-menu:before {
+        top: 23px;
+        left: 48%
+    }
+    .home-page .info h1 {
+        margin: 25px 0;
+        font-size: 50px
+    }
+    .home-page .info p {
+        max-width: 100%;
+        font-size: 14px
+    }
+    .home-page .info .button button,
+    .grid5 .info-grid5 .button button {
+        padding: 10px 20px
+    }
+    .single .info-single .img h2 {
+        font-size: 24px
+    }
+    .single .info-single .img .blocked-div h2,
+    .single .info-single .text-div h3 {
+        font-size: 16px
+    }
+    .single .info-single .box-chef .images,
+    .single .info-single .box-chef .info {
+        float: none
+    }
+    .single .info-single .comments .information .img,
+    .single .info-single .comments .information .info {
+        float: none
+    }
+    .grid2 .info-grid2 .text-grid2 h1 {
+        font-size: 20px
+    }
+    .grid2 .info-grid2 .text-grid2 p {
+        font-size: 18px
+    }
+    .grid4 .info-grid4 img {
+        margin: auto
+    }
+    .grid5 .info-grid5 h3,
+    .grid5 .info-grid5 p,
+    .grid8 .info-grid8 .text-grid8 h1 {
+        font-size: 20px
+    }
+    .grid6 .info-grid6 h1,
+    .grid7 .text-grid7 h1 {
+        font-size: 30px
+    }
+    .grid8 .info-grid8 .imag img {
+        width: 145px
+    }
+    .grid8 .info-grid8 .form h4 {
+        font-size: 18px
+    }
+    .grid8 .info-grid8 button {
+        width: 100%
+    }
+    .grid9 .section h3 {
+        font-size: 17px
+    }
+    .about .info-about .text-about h1 {
+        font-size: 25px
+    }
+    .image-gallery .info h1 {
+        font-size: 30px
+    }
+    .text-contact .info h1 {
+        font-size: 24px
+    }
+    .menu .info-text .tabs li {
+        margin: 0 2px
+    }
+    .menu .list-menu .text-menu li h2 {
+        font-size: 18px
+    }
+    .posts .num-page li {
+        width: 40px;
+        height: 40px;
+        line-height: 40px;
+        margin: 0 0px;
+    }
+    .header-single .home-page-single .info-single h1 {
+        font-size: 45px
+    }
+    .single .info-single .section-info p {
+        font-size: 20px
+    }
+    .single .info-single .section-info p span {
+        margin: 0 1px;
+        font-size: 13px
+    }
+    .single .info-single .section-info p a i {
+        margin: 0 1px
+    }
+    .single .info-single .box-chef,
+    .single .info-single .comments .information {
+        text-align: center
+    }
+    .single .info-single .box-chef .images img {
+        display: block;
+        margin: auto
+    }
+    .single .info-single .box-chef .info button {
+        display: inline
+    }
+    .single .info-single .comments .information .info p,
+    .single .info-single .box-chef .info p {
+        font-size: 11px
+    }
+    .contact-form .info-form .info h2 {
+        font-size: 34px
+    }
+    .contact-form .info-form .info p {
+        font-size: 18px
+    }
+    .contact-form .info-form .info-detials {
+        padding: 50px 0 0;
+        margin-left: 0
+    }
+    .footer p {
+        font-size: 16px
+    }
+    .header .search .info-search {
+        width: 330px
+    }
+    .header .search .info-search input {
+        width: 524px
+    }
+    .header .search .info-search button {
+        width: 100%
+    }
+}
+
+/* Small Screen */
+
+@media (min-width:769px) and (max-width:991px) {
+    .header .header-info .navbar .navbar-nav {
+        text-align: center;
+        padding: 10px 0;
+        background-color: var(--main-color);
+        margin-top: 15px;
+        border-radius: 5px
+    }
+    .header .header-info .navbar .navbar-nav .nav-link,
+    .header .header-info .navbar .navbar-nav .nav-link:focus,
+    .header .header-info .navbar .navbar-nav .nav-item .active {
+        margin: 5px 0;
+        color: #fff
+    }
+    .header .header-info .dropdown-menu {
+        text-align: center;
+        margin: 10px 30px 0
+    }
+    .header .header-info .dropdown-menu:before {
+        top: 23px;
+        left: 48%
+    }
+    .home-page .info p {
+        max-width: 100%
+    }
+    .single .info-single .img h2 {
+        font-size: 28px
+    }
+    .single .info-single .img .blocked-div h2,
+    .single .info-single .text-div h3 {
+        font-size: 22px
+    }
+    .grid4 .info-grid4 img {
+        margin: auto
+    }
+    .contact-form .info-form .info-detials {
+        padding: 50px 0 0;
+        margin-left: 0
+    }
+    .grid9 .section h3 {
+        font-size: 16px
+    }
+    .single .info-single .box-chef .info p {
+        font-size: 18px
+    }
+    .single .info-single .box-chef .images img,
+    .single .info-single .comments .information .img img {
+        width: 100px;
+        height: 100px
+    }
+    .single .info-single .comments .information .info h2,
+    .single .info-single .box-chef .info h2 {
+        font-size: 25px
+    }
+    .single .info-single .comments .information .info p {
+        max-width: 690px
+    }
+    .single .info-single .box-chef .info button {
+        padding: 5px 25px
+    }
+}
+
+/* Medium Screen */
+
+@media (min-width:992px) and (max-width:1199px) {
+    .home-page .info p {
+        max-width: 80%
+    }
+    .grid2 .info-grid2 .text-grid2 h1,
+    .about .info-about .text-about h1 {
+        font-size: 25px
+    }
+    .grid2 .info-grid2 .text-grid2 p,
+    .about .info-about .text-about p,
+    .contact-form .info-form .info p {
+        font-size: 18px
+    }
+    .grid2 .info-grid2 .text-grid2 button,
+    .about .info-about .text-about button {
+        padding: 7px 30px;
+        margin: 20px 5px 0
+    }
+    .grid4 .info-grid4 .section h4 {
+        font-size: 22px
+    }
+    .grid4 .info-grid4 .section p {
+        line-height: 1.4
+    }
+    .grid4 .info-grid4 img,
+    .menu .list-menu .img-menu img {
+        margin-top: 25px
+    }
+    .grid5 .info-grid5 p {
+        font-size: 35px
+    }
+    .grid5 .info-grid5 h3 {
+        font-size: 28px
+    }
+    .grid8 .info-grid8 .text-grid8 h1 {
+        font-size: 30px
+    }
+    .grid9 .section h3 {
+        font-size: 16px
+    }
+    .grid9 .section p i,
+    .image-gallery .images .div-img .icon i {
+        width: 35px;
+        height: 35px;
+        line-height: 30px;
+        font-size: 16px
+    }
+    .posts .img-post h3 {
+        font-size: 18px
+    }
+    .grid9 .section p,
+    .grid9 .section .contact li {
+        font-size: 15px
+    }
+    .single .info-single .box-chef .images img {
+        width: 150px;
+        height: 150px
+    }
+    .single .info-single .comments .information .info h2 {
+        font-size: 25px
+    }
+    .single .info-single .comments .information .info p {
+        max-width: 690px
+    }
+    .single .info-single .box-chef .info button {
+        padding: 5px 25px
+    }
+}
+
+/* Large Screen */
+
+@media (min-width:1200px) {}
